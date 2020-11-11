@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: consolas, "Liberation Mono", Menlo, Courier, monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  font-size: 32px;
+  padding:15px;
+}
+a{
+  
+  color: currentColor;
+}
