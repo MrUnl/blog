@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import './style.scss';
-
+import { FaInstagram,FaGithub,FaTwitter } from "react-icons/fa";
 
 function App() {
     
@@ -16,13 +16,13 @@ function App() {
             </div>
             <div className="socials">
             <a className="instagram" target="_blank" href="https://instagram.com/mr_unl">
-                <span class="fa fa-instagram"></span>
+               <FaInstagram/>
             </a>
             <a className="github" target="_blank" href="https://github.com/MrUnl">
-                <span class="fa fa-github"></span>
+                <FaGithub/>
             </a>
             <a className="twitter" target="_blank" href="https://twitter.com/mr_unl">
-                <span class="fa fa-twitter"></span>
+                <FaTwitter/>
             </a>
             </div>
         </div>
