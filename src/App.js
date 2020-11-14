@@ -15,13 +15,13 @@ function App() {
                 <div></div>
             </div>
             <div className="socials">
-            <a className="instagram" target="_blank" href="https://instagram.com/mr_unl">
+            <a className="instagram" target="_blank" href="/ig">
                <FaInstagram/>
             </a>
-            <a className="github" target="_blank" href="https://github.com/MrUnl">
+            <a className="github" target="_blank" href="/github">
                 <FaGithub/>
             </a>
-            <a className="twitter" target="_blank" href="https://twitter.com/mr_unl">
+            <a className="twitter" target="_blank" href="/tt">
                 <FaTwitter/>
             </a>
             </div>
